@@ -142,7 +142,7 @@ int main () {
                     break;
 
                 default: {
-                    cout << "Please enter the number of the method between 1 and 3" << endl;
+                    cout << "Please enter a number of the method between 1 and 3" << endl;
                 }
             }
 
@@ -150,7 +150,7 @@ int main () {
             break;
 
         default: {
-            cout << "Please enter the number of the exercise between 1 and 4" << endl;
+            cout << "Please enter a number between 1 and 4" << endl;
         }
 
 
